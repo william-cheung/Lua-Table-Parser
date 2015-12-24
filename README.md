@@ -1,2 +1,2 @@
 # Lua Table Parser
-### Basic Implementation of Lua Table Parser
+### A Basic Implementation of A Lua Table Parser
